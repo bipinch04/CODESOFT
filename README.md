@@ -1,4 +1,4 @@
-# CODESOFT
+# CODSOFT
 
 # TASK-1 (Mobile App Signup Flow)
 ## LIVE URL- https://www.figma.com/file/dYI9oQQYIr86OpiTFeP067/Mobile-App-Signup-Flow?type=design&node-id=0%3A1&mode=design&t=Ccw4iAlEPuHlfGyP-1
